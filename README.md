@@ -17,5 +17,5 @@
 
 ### Contact:
 
-**Name:**Jessie Álvarez
-**Email:**jessieaam0@gmail.com
+**Name:** Jessie Álvarez
+**Email:** jessieaam0@gmail.com
